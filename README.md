@@ -19,7 +19,7 @@ This is a cheat plugin created for the game Mario Kart 7 with the sole purpose o
 
 # To-Add Features
 
-- AnonyMii (Anonymous mode)
+- AnonyMii (Anonymous mode) - 19/11/2024
 - Delimiter detector
 - Player logger
 
