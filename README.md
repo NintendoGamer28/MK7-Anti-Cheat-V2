@@ -19,8 +19,9 @@ This is a cheat plugin created for the game Mario Kart 7 with the sole purpose o
 
 # To-Add Features
 
-- Player logger
+- AnonyMii (Anonymous mode)
 - Delimiter detector
+- Player logger
 
 (If I feel there are other features which should be added, I will update this page.)
 
